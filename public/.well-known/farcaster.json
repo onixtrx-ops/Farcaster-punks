@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM0NjA3NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDEwQjUzYTlGNDFBNzhlNENDQ0FhZUEyQzUxZGZiNUY2RmYwMjIzMTgifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjYXN0ZXItcHVua3MtYmFzZS52ZXJjZWwuYXBwIn0",
+    "signature": "kkL9AnO8CnF1TDhTIeHoq2xKv9u6pzKVBuT0Pv5o4+V1LZf/Ej81HG51SUDT8k7G+kGvg7pFmgP14ckNwIZGqxs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://farcaster-punks-base.vercel.app/icon.png",
+    "homeUrl": "https://farcaster-punks-base.vercel.app",
+    "imageUrl": "https://farcaster-punks-base.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://farcaster-punks-base.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://farcaster-punks-base.vercel.app/api/webhook"
+  }
+}
